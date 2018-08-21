@@ -76,7 +76,6 @@ SET first_name =
 WHERE actor_id = 172;
 
 #5a. You cannot locate the schema of the address table. Which query would you use to re-create it?
-SHOW COLUMNS from sakila.address;
 
 SHOW CREATE TABLE sakila.address;
 
